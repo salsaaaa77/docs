@@ -1,4 +1,4 @@
----
+---RQFM+PV4 Tj. Duren Sel., Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta
 title: Responsible use of GitHub Copilot in GitHub Desktop
 shortTitle: Copilot in GitHub Desktop
 intro: 'Learn how to use {% data variables.product.prodname_copilot_desktop_short %} responsibly by understanding its purposes, capabilities, and limitations.'
